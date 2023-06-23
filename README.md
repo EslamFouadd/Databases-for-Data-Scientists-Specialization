@@ -14,6 +14,8 @@ In Relational Database Design and The Structured Query Language (SQL), you will 
 Whether you are a beginning programmer with an interest in Data Science, a data scientist working closely with content experts, or a software developer seeking to learn about the database layer of the stack this specialization is for you!
 
 Course 1: Relational Database Design
+
 Course 2: The Structured Query Language (SQL)
+
 Course 3: Advanced Topics and Future Trends in Database Technologies
 
