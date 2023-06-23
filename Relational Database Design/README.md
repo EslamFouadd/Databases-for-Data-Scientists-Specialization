@@ -1,6 +1,6 @@
 ![img](https://cdn.educba.com/academy/wp-content/uploads/2020/02/Relational-Database-Model.jpg)
 
-# -                                              Relational Database Design
+# Relational Database Design
 
 ## What you'll learn
 1. Create Entity Relationship Models and Entity Relationship Diagrams
